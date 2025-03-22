@@ -19,7 +19,7 @@ To set up the environment and run the Python scripts:
   - The data source used for this assignment was provided by our instructor. Link: https://github.com/Desmondonam/Nepal_Climate_change
 
 - **Preprocessing Steps**:
-  - The shapefile was reprojected 
+  - The shapefile was reprojected
   - Raster data was read and stored along with its bounding box for visualization.
 
 
